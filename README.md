@@ -28,9 +28,8 @@
 
 ## 截图
 
-![截图](![image](![image](https://github.com/user-attachments/assets/a0669a19-d2c5-4aa7-a0e1-195632933112)
-)
-)
+![截图]![image](https://github.com/user-attachments/assets/6229e0d6-8fcc-4df6-af41-003f90b76e6b)
+
 
 ## 许可证
 
