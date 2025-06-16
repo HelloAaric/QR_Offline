@@ -1,5 +1,6 @@
-EN [English](README_en.md)
-ZH_CN [中文](README.md)
+[English](README_en.md)
+
+[中文](README.md)
 
 # 高级离线二维码工具
 
