@@ -28,7 +28,9 @@
 
 ## 截图
 
-![截图](https://example.com/screenshot.png)
+![截图](![image](![image](https://github.com/user-attachments/assets/a0669a19-d2c5-4aa7-a0e1-195632933112)
+)
+)
 
 ## 许可证
 
