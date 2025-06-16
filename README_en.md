@@ -1,6 +1,6 @@
-EN [English](README_en.md)
+[English](README_en.md)
 
-ZH_CN [中文](README.md)
+[中文](README.md)
 
 # Advanced Offline QR Code Tool
 
