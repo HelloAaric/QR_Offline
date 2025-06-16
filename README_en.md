@@ -1,36 +1,35 @@
-# 高级离线二维码工具
+# Advanced Offline QR Code Tool
 
-一个完全离线的二维码生成与扫描工具，使用本地库，无需互联网连接。注意：仅支持Chrome浏览器。
+A fully offline QR code generation and scanning tool that uses local libraries, requiring no internet connection. Note: Only supports the Chrome browser.
 
-## 功能特点
+## Features
 
-- 从文本、URL或任何内容生成二维码
-- 自定义二维码尺寸、前景色和背景色
-- 将生成的二维码下载为PNG图片
-- 使用摄像头扫描二维码（需要摄像头权限）
-- 一键复制扫描内容
-- 直接打开扫描到的URL链接
-- 流畅的动画效果和响应式设计
+- Generate QR codes from text, URLs, or any content
+- Customize QR code size, foreground color, and background color
+- Download generated QR codes as PNG images
+- Scan QR codes using the camera (requires camera permission)
+- Copy scanned content with one click
+- Open scanned URLs directly
+- Smooth animations and responsive design
 
-## 使用方法
+## How to Use
 
-1. 将此仓库克隆到本地
-2. 在Chrome浏览器中打开`offline-qrcode-tool.html`文件
-3. 使用"生成二维码"面板创建二维码
-4. 使用"扫描二维码"面板扫描二维码（首次使用时请允许摄像头访问）
+1. Clone this repository to your local machine
+2. Open the `offline-qrcode-tool.html` file in Chrome browser
+3. Use the "Generate QR Code" panel to create QR codes
+4. Use the "Scan QR Code" panel to scan QR codes (allow camera access when prompted)
 
-## 技术细节
+## Technical Details
 
-- 二维码生成使用 [qrcode.min.js](https://davidshimjs.github.io/qrcodejs/)
-- 二维码扫描使用 [jsQR](https://github.com/cozmo/jsQR)
-- 纯前端实现，无需后端支持
-- 下载后可离线使用
+- Uses [qrcode.min.js](https://davidshimjs.github.io/qrcodejs/) for QR code generation
+- Uses [jsQR](https://github.com/cozmo/jsQR) for QR code scanning
+- Pure front-end implementation, no backend required
+- Works offline after downloading
 
-## 截图
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/6229e0d6-8fcc-4df6-af41-003f90b76e6b)
 
+## License
 
-## 许可证
-
-MIT许可证
+MIT License
