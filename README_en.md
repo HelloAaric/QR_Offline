@@ -1,3 +1,7 @@
+EN [English](README_en.md)
+
+ZH_CN [中文](README.md)
+
 # Advanced Offline QR Code Tool
 
 A fully offline QR code generation and scanning tool that uses local libraries, requiring no internet connection. Note: Only supports the Chrome browser.
